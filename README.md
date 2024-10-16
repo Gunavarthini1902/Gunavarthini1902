@@ -27,6 +27,9 @@ A front-end developer that uses HTML, CSS, and JavaScript to create beautiful, i
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
+## Portfolio
+Check out my portfolio💫: [Portfolio Link](https://www.figma.com/proto/YKnSL9qpzJ8ALJReAuf2wJ/Untitled?node-id=0-1&t=WVE3VdwK4DmrFK7p-1) 
+
 ## Let's Connect
 📫 Let's collaborate, learn together and grow 🚀.
 
